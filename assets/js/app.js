@@ -70,7 +70,6 @@ $(document).ready(function() {
                 'loading',
                 'snap'
             ],
-            loadingScreen: 'loading', //Sound for loading screen
             toggleSidebar: 'snap', //sound for toggle sidebar
         },
         header: {
