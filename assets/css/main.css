@@ -1866,7 +1866,7 @@ body.full-screen #header {
 }
 #content.offCanvas {
   width: 100%;
-  margin-left: 255px;
+  margin-left: 0px;
 }
 #content .content-wrapper {
   height: auto;
