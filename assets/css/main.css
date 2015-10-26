@@ -1848,7 +1848,7 @@ body.full-screen #header {
    Content
 ----------------------------------------- */
 #content {
-  margin-left: 255px;
+  margin-left: 0px;
   padding: 52px 0 0 0;
   min-height: 100%;
 }
