@@ -1853,7 +1853,7 @@ body.full-screen #header {
   min-height: 100%;
 }
 #content.sidebar-page {
-  margin-left: 255px;
+  margin-left: 0px;
 }
 #content.collapsed-sidebar {
   margin-left: 0px;
